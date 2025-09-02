@@ -2,8 +2,6 @@
 
 Bu proje, Hugging Face `transformers` kütüphanesi ve `t5-small` modeli kullanılarak oluşturulmuş, uzun metinleri özetleyen basit bir web uygulamasıdır. Kullanıcı arayüzü Gradio ile geliştirilmiştir.
 
-![Uygulamanın ekran görüntüsünü buraya ekleyebilirsiniz.]
-
 ## 🚀 Kullanılan Teknolojiler
 
 - **Python 3.8+**
@@ -17,7 +15,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1.  **Depoyu klonlayın (Eğer GitHub'a yüklediyseniz):**
     ```bash
-    git clone [DEPO_URL'Sİ]
+    git clone [https://github.com/SuleymanToklu/Day-21-Summarizer-Gradio]
     cd day-21-summarizer-gradio
     ```
 
